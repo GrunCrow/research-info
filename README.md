@@ -6,6 +6,10 @@ Welcome to the Bibliography repository! Here, you will find a collection of acad
 
 The repository is organized into thematic folders that cover different aspects of ecology where Deep Learning is applied. Below, you will find a brief description of each folder and its contents:
 
+### [Deep Learning](DeepLearning)
+
+This folder contains literature related to deep learnig in general.
+
 ### [Computer Vision](ComputerVision)
 
 This folder contains literature related to the detection and classification of objects from images.
