@@ -1,4 +1,4 @@
-# Camera Trappig
+# Camera Trapping
 
 Literature related to the detection and classification of species from images captured by camera traps in the wilderness.
 
