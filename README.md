@@ -6,7 +6,7 @@ Welcome to the Bibliography repository! Here, you will find a collection of acad
 
 The repository is organized into thematic folders that cover different aspects of ecology where Deep Learning is applied. Below, you will find a brief description of each folder and its contents:
 
-### [Camera Trapping](Images)
+### [Computer Vision](ComputerVision)
 
 This folder contains literature related to the detection and classification of objects from images.
 
@@ -22,9 +22,9 @@ Here, you'll find resources on the use of Deep Learning algorithms in the analys
 
 Here, you'll find resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations of wildlife, especially birds and mammals.
 
-### [Other](Deep%20Learning/Other)
+### [Other](Other)
 
-This section includes literature that encompasses other aspects of Deep Learning applied to ecology that don't fit into the previous categories.
+This section includes literature that encompasses other aspects that don't fit into the previous categories.
 
 ## Contributions
 
