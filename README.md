@@ -10,7 +10,7 @@ The repository is organized into thematic folders that cover different aspects o
 
 This folder contains literature related to the detection and classification of objects from images.
 
-#### [Camera Trapping](CameraTrapping)
+#### [Camera Trapping](ComputerVision/CameraTrapping)
 
 This folder contains literature related to the detection and classification of species from images captured by camera traps in the wilderness.
 
@@ -18,7 +18,7 @@ This folder contains literature related to the detection and classification of s
 
 Here, you'll find resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations.
 
-#### [BioAcoustics](BioAcoustics)
+#### [BioAcoustics](Acoustics/BioAcoustics)
 
 Here, you'll find resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations of wildlife, especially birds and mammals.
 
