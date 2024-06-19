@@ -1,6 +1,6 @@
 # Bibliography
 
-Welcome to the Bibliography repository! Here, you will find a collection of academic papers, articles, books, and resources related mainly to the application of Deep Learning in the conservation and study of the environment.
+Welcome to the Research-Info repository! Here, you will find a collection of academic papers, articles, books, and resources related to the main topics I've been researching on which are mainly the application of Deep Learning in the conservation and study of the environment and biodiversity.
 
 ## Repository Structure
 
@@ -10,9 +10,12 @@ The repository is organized into thematic folders that cover different aspects o
 
 This folder contains literature related to deep learnig in general.
 
+<!--
 ### [Computer Vision](ComputerVision)
 
 This folder contains literature related to the detection and classification of objects from images.
+
+-->
 
 #### [Camera Trapping](ComputerVision/CameraTrapping)
 
@@ -24,7 +27,7 @@ Here, you'll find resources on the use of Deep Learning algorithms in the analys
 
 #### [BioAcoustics](Acoustics/BioAcoustics)
 
-Here, you'll find resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations of wildlife, especially birds and mammals.
+Here, you'll find resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations of wildlife.
 
 ### [Other](Other)
 

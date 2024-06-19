@@ -2,6 +2,12 @@
 
 Resources on the use of Deep Learning algorithms in the analysis of sounds and vocalizations of wildlife, especially birds.
 
+## Software
+
+### [BirdNET](https://github.com/kahst/BirdNET-Analyzer)
+
+### OpenSoundScape
+
 ## Labs
 
 ### [Kitzes Lab](https://www.kitzeslab.org/)
