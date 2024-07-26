@@ -8,13 +8,23 @@ Resources on the use of Deep Learning algorithms in the analysis of sounds and v
 
 #### [BirdNET](https://github.com/kahst/BirdNET-Analyzer)
 
-#### OpenSoundScape
+#### [OpenSoundScape](https://github.com/kitzeslab/opensoundscape)
+
+OpenSoundscape (OPSO) is free and open source Python utility library analyzing bioacoustic data.
 
 #### [BirdAVES: Animal Vocalization Encoder based on Self-Supervision](https://github.com/earthspecies/aves?tab=readme-ov-file#birdaves)
 
 AVES (Animal Vocalization Encoder based on Self-Supervision) is a self-supervised, transformer-based audio representation model for encoding animal vocalizations ("BERT for animals"). It is based on HuBERT (Hsu et al., 2021), a powerful self-supervised model for human speech, but pretrained on large-scale unannotated audio datasets (FSD50K, AudioSet, and VGGSound) which include animal sounds.
 
+#### [PERCH](https://github.com/google-research/perch)
+
+A bioacoustics research project.
+
 ### Tools
+
+#### [CCAI Tutorial: Agile Modeling for Bioacoustic Monitoring](https://colab.research.google.com/drive/1gPBu2fyw6aoT-zxXFk15I2GObfMRNHUq?usp=sharing)
+
+An interactive tutorial (requires user engagement) that demonstrates analyzing an unlabeled bioacoustic dataset for a target species given a vocalization of that species to help provide insights for ecologists, conservationists, land managers, and other domain experts. We achieve this by leveraging a high-quality, bioacoustic pre-trained model, searching over the unlabeled corpus conditioned on a single species example, and applying an efficient ML technique to produce matches.
 
 #### [BTOAcousticPipelineVerificationApp](https://github.com/BritishTrustForOrnithology/BTOAcousticPipelineVerificationApp)
 
