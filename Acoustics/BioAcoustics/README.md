@@ -41,6 +41,10 @@ An RShiny App to help with manual checking of short audio clips. A typical use c
 - [BioAcoustic Resources](https://docs.google.com/document/d/10APGahxU_GJewO8mkN2wzG0y-LHw3p_TAcYJDdHAQmg/edit#heading=h.mwbyo5325flj)
 - [OpenSoundScape](https://github.com/kitzeslab/opensoundscape)
 
+### [Meridian](https://meridian.cs.dal.ca/2015/07/31/detection-and-classification-of-marine-animal-sounds-using-deep-learning/)
+
+Detection and classification of marine animal sounds using deep learning
+
 ## Papers
 
 ### Birds
