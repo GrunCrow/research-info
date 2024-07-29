@@ -30,6 +30,10 @@ An interactive tutorial (requires user engagement) that demonstrates analyzing a
 
 An RShiny App to help with manual checking of short audio clips. A typical use case is where you have a folder of clips that the Acoustic Pipeline has suggested are of a certain species. This app can be used to display a spectrogram of a sound clip, allow the sound to be played, and then a decision can be made whether the identity is true or false resulting in the clip being moved to a 'True' subfolder or a 'False' subfolder. The app can be customised for more complex workflows, such as if multiple species are present, or to perform simple clip-level labelling.
 
+## Datasets
+
+[BirdSet](https://github.com/DBD-research-group/BirdSet): A benchmark dataset collection for bird sound classification
+
 ## Labs
 
 ### [Kitzes Lab](https://www.kitzeslab.org/)
